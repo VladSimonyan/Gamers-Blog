@@ -8,3 +8,8 @@ Users are able to create an account so they can log in and logout whenever they 
 
 
 ![OIP](https://github.com/VladSimonyan/Gamers-Blog/assets/129136870/ec61f08a-de45-43be-bde8-de0d84d15590)
+
+
+# Repository
+
+https://github.com/VladSimonyan/Gamers-Blog.git
